@@ -12,19 +12,19 @@ Training :
 
 Data distrubution 
 
-|<img src="./assets/sample1.jpg" width="240" height="240"/> |
+|<img src="./assets/sample1.jpg" width="340" height="240"/> |
 
 
 _Training and validation results_ :
 
 
-|<img src="./assets/sample2.jpg" width="240" height="240"/> ||<img src="./assets/sample3.jpg" width="240" height="240"/> |
+|<img src="./assets/sample2.jpg" width="340" height="240"/> ||<img src="./assets/sample3.jpg" width="340" height="240"/> |
 
 
 
 True positive rate and False positive rate for each class 
 
-|<img src="./assets/sample4.jpg" width="240" height="240"/> |
+|<img src="./assets/sample4.jpg" width="340" height="240"/> |
 
 Next steps to improve this results:
 
