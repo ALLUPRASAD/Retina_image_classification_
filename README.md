@@ -5,6 +5,10 @@ _Purpose_ :
  
  Classess :[ No DR,    Mild,   Moderate, Severe,  Proliferate  ]![image]
 
+sample_images_:
+
+|<img src="./assets/input.jpg" width="440" height="240"/> |
+
 Training :
 
   Given problem is to train the dataset which contain 5 classes so that model can able to distinguish the classes once model is trained on given dataset 
@@ -32,4 +36,4 @@ Next steps to improve this results:
 
 2.Use deeper or wider networks such as resent 152, inception, wide resnet etc. required gpus to train on these architectures 
 
-3. Use cutmix and aumix augmentations to improve the F1 score
+3.Use cutmix and aumix augmentations to improve the F1 score
